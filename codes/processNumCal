@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./processNum |grep "Child" | wc -l 
